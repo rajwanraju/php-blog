@@ -1,0 +1,119 @@
+
+.circle {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 1em ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-border-radius: 99em;
+  -moz-border-radius: 99em;
+  border-radius: 99em;
+  border: 5px solid #eee;
+   
+}
+#nav {
+	background:#06a;
+	padding:10px 20px;
+	text-align:justify;
+	color:#f6dde3;
+}
+
+#nav a {
+	margin: 0 10px;
+}
+
+#nav a:visited, #nav a:link {
+	text-decoration:none;
+	color:#f6dde3;
+}
+
+#nav a:hover {
+	text-decoration:underline;
+	color:#f6dde3;
+}
+
+.header{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: undefined;
+   background-color: #f4f4f4
+}
+.wrapper{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: undefined;
+   background-color: #cccccc
+}
+.left{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: 25%;
+   higher:80%;
+   background-color: #ccccff
+}
+.about{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: 25%;
+   background-color: blue;
+}
+
+.right{
+   position: relative;
+   float: right;
+   right: undefined;
+   width: 72%;
+   height:80%;
+   background-color: ghostwhite;
+}
+.manu{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: 20%;
+   higher:80%;
+   background-color: #ccccff
+}
+.article{
+    position: relative;
+   float: right;
+   left: undefined;
+   width: 78%;
+   background-color:silver;
+}
+
+.table{
+   position: relative;
+   float: right;
+   right: undefined;
+   width: 72%;
+   background-color: gray;
+}
+
+.table2{
+   position: relative;
+   float: right;
+   right: undefined;
+   width: 72%;
+   background-color: pink;
+}
+.footer{
+   position: relative;
+   float: left;
+   left: undefined;
+   width: undefined;
+   background-color: #cfcfcf
+}
+body {
+   border-width: 0px;
+   padding: 0px;
+   margin: 0px;
+   font-size: 90%;
+   background-color: aqua;
+}
